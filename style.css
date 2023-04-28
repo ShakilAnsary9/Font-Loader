@@ -1,9 +1,5 @@
-h1 {
-  font-family: "Vina Sans";
-}
-h2 {
-  font-family: "Poppins";
-}
+@import url(./css/Pacifico/pacifico.css);
+
 h3 {
   font-family: "Pacifico";
 }
